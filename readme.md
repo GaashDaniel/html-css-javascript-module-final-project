@@ -10,8 +10,6 @@ This portfolio website is the culmination of my learning journey in web developm
 
 The portfolio is not only a reflection of my technical expertise but also serves as a business card for potential employers and clients, offering a glimpse into my professional approach to web development and design.
 
-Visit the live site here: [Gaash Web Solutions](https://gaashdaniel.github.io/Gaash-Web-Solutions/).
-
 ## Pages
 The website includes the following pages:
 
